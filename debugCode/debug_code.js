@@ -24,6 +24,6 @@ function performOperation(){
     function displayResult(result){
         // Display the result in the paragraph element
         const resultElement = document.getElementById('result');
-        resultElement.textContent = `THe result is: ${result}`;
+        resultElement.textContent = `The result is: ${result}`;
     }
 }
